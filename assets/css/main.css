@@ -1104,12 +1104,12 @@
 		-webkit-transition: color .25s ease-in-out;
 		-ms-transition: color .25s ease-in-out;
 		transition: color .25s ease-in-out;
-		text-decoration: underline;
+		text-decoration: none;
 		color: #717479;
 	}
 
 		a:hover {
-			text-decoration: none;
+			text-decoration: underline;
 		}
 
 	strong, b {
@@ -1486,7 +1486,8 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #e97770 !important;
+		color: #2f333b !important;
+		/*color: #e97770 !important;*/
 	}
 
 		.feature-list h3:before {
@@ -1621,6 +1622,11 @@
 
 		#footer-wrapper h1, #footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b, #footer-wrapper a {
 			color: #fff;
+		}
+
+		#footer-wrapper .feature-list h3 {
+			color: #ffffff !important;
+			/*color: #e97770 !important;*/
 		}
 
 		#footer-wrapper hr {
