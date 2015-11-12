@@ -1722,6 +1722,10 @@
 		text-transform: uppercase;
 	}
 
+	#logo a {
+		color: #fff;
+	}
+
 /* Intro */
 
 	#intro > .style2 {
@@ -2009,6 +2013,10 @@
 				display: block;
 				letter-spacing: 0.15em;
 				font-size: 1.25em;
+			}
+
+			#logo a {
+				color: #fff;
 			}
 
 		/* Nav */
