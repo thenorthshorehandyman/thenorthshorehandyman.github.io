@@ -2288,10 +2288,10 @@
 	}
 
 /* Mobile Only */
-
+/*
 	#navPanel, #titleBar {
 		display: none;
-	}
+	}*/
 
 	@media screen and (max-width: 736px) {
 
