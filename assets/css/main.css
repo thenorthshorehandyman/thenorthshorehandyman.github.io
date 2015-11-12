@@ -2639,6 +2639,10 @@
 					font-size: 0.9em;
 				}
 
+				#logo a {
+					color: #fff;
+				}
+
 		/* Nav */
 
 			#nav {
