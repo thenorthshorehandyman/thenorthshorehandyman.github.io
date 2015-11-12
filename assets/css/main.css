@@ -2021,7 +2021,7 @@
 
 		/* Nav */
 
-			#nav {
+			/*#nav {
 				position: absolute;
 				display: block;
 				top: 2.5em;
@@ -2071,7 +2071,7 @@
 
 						#nav > ul > li.active > a, #nav > ul > li.active > span {
 							color: #fff;
-						}
+						}*/
 
 			.dropotron {
 				background: #222835 url("images/overlay.png");
